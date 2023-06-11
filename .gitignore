@@ -1,0 +1,5 @@
+*.pdf
+*.out
+randcirc.dat
+randsq.dat
+__pycache__
