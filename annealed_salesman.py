@@ -13,6 +13,8 @@ import sys
 # import my plotting code
 from plot import *
 
+import networkx as nx
+
 # generate random path with n points
 def randpath(n):
     path = np.arange(1, n-1) # generate middle path points
